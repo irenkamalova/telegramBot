@@ -1,0 +1,6 @@
+constants.py
+draft
+draft/*
+*.pyc
+*.log
+__pycache__
